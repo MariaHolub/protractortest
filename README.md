@@ -26,12 +26,15 @@ npm install -g http-server
 </code></pre>
 
 8. Move to the directory containing static web files e.g cd \projects\angular-registration-login-example;
-9. Start the server with 
+
+9. Download the spec.js and conf.js files from this repository to the same folder; 
+
+10. Start the server with 
 <pre><code>
 http-server
 </code></pre>
 
-10. Run the test with 
+11. Run the test with 
 <pre><code>
 protractor conf.js
 </code></pre>
