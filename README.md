@@ -19,7 +19,7 @@ webdriver-manager update
 webdriver-manager start
 </code></pre>
 
-6. Clone repository https://github.com/cornflourblue/angular-registration-login-example/blob/master/README.md
+6. Clone repository https://github.com/cornflourblue/angular-registration-login-example/
 7. Install the http-server with 
 <pre><code>
 npm install -g http-server
